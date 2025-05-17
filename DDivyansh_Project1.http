@@ -1,0 +1,6 @@
+@DDivyansh_Project1_HostAddress = http://localhost:5058
+
+GET {{DDivyansh_Project1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
