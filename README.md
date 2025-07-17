@@ -10,15 +10,15 @@ A complete backend system for managing athletes, sports, and contingents in a Su
 
 ## 📌 Table of Contents
 
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Project Entities](#project-entities)
-- [API Endpoints](#api-endpoints)
-- [Running the API Locally](#running-the-api-locally)
-- [Swagger UI](#swagger-ui)
-- [Deployment](#deployment)
-- [Known Issues](#known-issues)
-- [Author](#author)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Project Entities](#-project-entities)
+- [API Endpoints](#-api-endpoints)
+- [Running the API Locally](#-running-the-api-locally)
+- [Swagger UI](#-swagger-ui)
+- [Deployment](#-deployment)
+- [Known Issues](#-known-issues)
+- [Author](#-author)
 
 ---
 
